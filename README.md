@@ -1,1 +1,1 @@
-# Text-to-Speech
+Small Python scrypt with gTTS module
